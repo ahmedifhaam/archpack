@@ -1,0 +1,9 @@
+base 2-2
+efibootmgr 17-1
+git 2.27.0-1
+grub 2:2.04-7
+htop 2.2.0-3
+linux 5.7.7.arch1-1
+linux-firmware 20200519.8ba6fa6-1
+tmux 3.1_b-1
+vim 8.2.0814-3
